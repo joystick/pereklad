@@ -1,0 +1,274 @@
+Country,lastName,firstName,city,region,streetAddress,postalCode,phone,email,languages,website
+GERMANY,Dröge-Berk,Marina,Aachen,Nordrhein-Westfalen,Huettenstr. 99 52068,,"""+49 24146361184""",marina_droege-berk@gmx.net,"rus,ukr,ger",
+GERMANY,Nowotko,Georg,Aachen,Nordrhein-Westfalen,Blücherplatz 18 52068 Aachen ,,"""+49 157 50462045""",,"pol,rus,ukr,spa ",
+GERMANY,Vasiljev,Anna,Aachen,Nordrhein-Westfalen,Reimser Straße 39 52074 Aachen,,"""+49 176 56736602""",vasiljeva.anja@gmail.com,"rus,ukr",
+GERMANY,Quarg,Dana,Ahrensburg,Schleswig-Holstein,Postfach 12 32 22902,,"""+49 4102 6919855""",d.quarg@gmx.de,"rus,ukr,ger",www.quarg.de
+GERMANY,Krivyenkov,Oleksandr,Alfter,Nordrhein-Westfalen,Hauptsstraße 11a 53347 Alfter ,,"""+49 1789161615""",okrivyenkov-office@t-online.de,"rus,ukr",
+GERMANY,Rieger,Vera,Altenburg,Thüringen,Käthe-Kollwitz-Straße 25 04600 Altenburg,,"""+49 172 3419595, +49 3447 5118929""",Merseburg@sprachenservice.de,"rus,ukr",
+GERMANY,Oetjen,Alla,Apen,Niedersachsen,Moorstraße 46 a 26689 Apen ,,"""+49 173 4518231, +49 4499 9229091""",alla.oetjen@outlook.de,"rus,ukr",
+GERMANY,Korn,Alla,Arpsdorf,Schleswig-Holstein,Bahnhofstr. 150 24634 Arpsdorf,,"""+49 176 43416907, +49 4324 8889020""",alla.korn@yahoo.de,"rus,ukr,bel",
+GERMANY,Schleichardt,Alexander,Bad Düben,Saxony-Anhalt,Lange Strasse 4 04849,,"""+49 34243 717681, +49 174 5690425""","alexander@schleichardt.de, alexander.schleichardt@gmail.com","ger,rus,ukr",
+GERMANY,Schmidt,Irina,Bad Dürrenberg,Sachsen-Anhalt,Sterlingsweg 42 06231 Bad Dürrenberg,,"""+49 172 8865180, +49 345 4707986""",Merseburg@sprachenservice.de,"rus,ukr",
+GERMANY,Kilpa,Kateryna,Bad Homburg v.d.Höhe,Hessen,Steinbacher Str. 10 61350 Bad Homburg v. d. H.,,"""+49 157 72426722""",k.kilpa@web.de,"rus,ukr",
+GERMANY,Perepadya,Volodymyr,Bad Honnef,Nordrhein-Westfalen,Luisenstr. 13 53604 Bad Honnef ,,"""+49 176 51898998""",perepadya@web.de,"rus,ukr",
+GERMANY,Plagmann,Elena,Bad Oldesloe,Schleswig-Holstein,Wolfgang-Sonder-Weg 8 23843 Bad Oldesloe ,,"""+49 160 4373617, +49 4531 8939358""",elena.plagmann@gmx.de,"rus,ukr",
+GERMANY,Fries,Marina,Baesweiler,Nordrhein-Westfalen,,,"""+49 176 20441302, +49 2401 6922063""",Marina.Fries@gmx.de,"rus,ukr",
+GERMANY,Gorbachova,Iryna,Bayreuth,Bayern,Furtwänglerstr. 21 b 95445 Bayreuth,,"""+49 921 5606861""",,"rus,ukr",
+GERMANY,Zellmann,Svetlana,Bergisch Gladbach,Nordrhein-Westfalen,Friedrich-Rosengarth-Str. 29 51429 Bergisch Gladbach ,,"""+49 2204 984384""",swetlana.zellmann@gmx.de,"eng,rus,spa,ukr",
+GERMANY,Shnyr,Ludmila,Berlin,Berlin,Trellerborger Str. 8 13189,,"""+49 171 8305665, +49 30 46069157""",lshnyr@gmail.com,"ger,rus,ukr",www.ich-uebersetze.de
+GERMANY,Wegers,Olga,Berlin,Berlin,Merlostr. 2 50668,,"""+49 176 22730223""",bazel.olga@gmail.com,"ukr,rus,ger,eng",
+GERMANY,Kamischke,Jelena,Berlin,Berlin,Kietz 23-24 12557,,"""+49 30 85969695, +49 171 8795656, +49 33762 21991""",jelena@kamischke.net,"rus,ukr,ger",
+GERMANY,Peschke,Marina,Berlin,Berlin,Emster Str. 3 10719,,"""+49 30 2639 22820, +49 174 3854318""","info@peschke-translation.com, 
+info@abc-sprachstudio.com ","ger,ukr,rus",www.peschke-translation.com
+GERMANY,Kyrylenko,Nadiya,Berlin,Berlin,Strassmannstr. 39 10249,,"""+49 30 24781381, +49 179 1314354""","kyrylenkonadiya@hotmail.com, info@sprachenhilfe.de ","ger,ukr,rus",
+GERMANY,Balzer,Ludmila,Berlin,Berlin,,,"""+49 171 435 2024""",ludmilabalzer@gmx.de,"rus,ukr",www.dolmetscherei.de
+GERMANY,Elbert,Willy,Berlin,Berlin,,,,willyelbert@googlemail.com,"eng,pol,rus,ukr ",
+GERMANY,Freter,Nataliya,Berlin,Berlin,Amanlisweg 10 12685 Berlin,,"""+49 1578 7820168, +49 30 50593289""",info@freter.online.de,"rus,ukr",www.freter-online.de
+GERMANY,Hertel,Tatjana,Berlin,Berlin,Nauener Str. 2 13583 Berlin,,"""+49 175 9512394, +49 30 37801477""",tatjana.hertel@dolmetscherin-berlin.de,"rus,ukr",www.dolmetscherin-berlin.de
+GERMANY,Hoffmann,Elena,Berlin,Berlin,Dunckerstraße 60 10439 Berlin,,"""+49 174 3312777, +49 30 65700814""",Elena.Hoffmann@gmx.net,"rus,ukr",
+GERMANY,Kishchuk,Tetyana,Berlin,Berlin,,,"""+49 15141310728""",tetyana.kishchuk@hotmail.com,ukr,
+GERMANY,Kolesnik,Jewgeni,Berlin,Berlin,Binger Straße 75 14197 Berlin,,"""+49 172 3118362, +49 30 8216731""",,"rus,ukr",
+GERMANY,Kudimow,Olga,Berlin,Berlin,,,"""+49 30 26553838""",o.kudimow@gmail.com,"rus,ukr",
+GERMANY,Lyssenko,Nikolai,Berlin,Berlin,Rhinstraße 2 10315 Berlin,,"""+49 170 1477007, +49 30 5132829""",,"rus,ukr",
+GERMANY,Mackat,Larissa,Berlin,Berlin,Görschstraße 2 13187 Berlin,,"""+49 151 55943815, +49 30 4857903""",,"rus,ukr",
+GERMANY,Meyer,Tamara,Berlin,Berlin,"Basdorfer Straße 28, 12679 Berlin",,"""+49 175 4181025, +49 30 93554064""",Tamara-Meyer@t-online.de,"rus,ukr",
+GERMANY,Onufriv,Sofiya,Berlin,Berlin,Mittelstraße 2A 13055 Berlin,,"""+49 176 38093581""",sofiya.onufriv@web.de,ukr,
+GERMANY,Ostapenko,Valentyna,Berlin,Berlin,Simon-Dach-Str. 25 10245 Berlin,,"""+49 179 7418528, +49 30 2926668""",Valentyna.Ostapenko@gmail.com,"fra,rus,ukr",
+GERMANY,Palmer,Tatjana,Berlin,Berlin,Zinnowitzer Straße 7 10115 Berlin,,"""+49 177 7030080""",tatjana.palmer@yahoo.de,"rus,ukr",
+GERMANY,Paulsen,Oksana,Berlin,Berlin,Erasmusstraße 16 10553 Berlin,,"""+49 151 53061806""",oksana.paulsen@gmx.de,"eng,rus,ukr",
+GERMANY,Raupach-Pchennikova,Galina,Berlin,Berlin,Stahlheimer Straße 10 A 10439 Berlin,,"""+49 163 5549809, +49 30 28045264""",russisch@linguakontakt.de,"rus,ukr",
+GERMANY,Peters,Oksana,Berlin,Sachsen-Anhalt,Augsburger Straße 27 10789 Berlin,,"""+49 3021962044""",info@ospeters.de,"eng,rus,ukr",
+GERMANY,Lewinski,Genadi,Bielefeld,Nordrhein-Westfalen,"
+Turnerstr.49 33602 Bielefeld ",,"""+49 177 3372361, +49 521 5227660""","lewinskig@yahoo.de, info@ra-lewinski.de","rus,ukr",
+GERMANY,Lewinski,Olga,Bielefeld,Nordrhein-Westfalen,"
+Turnerstr.49 33602 Bielefeld ",,"""+49 176 20532404, +49 151 21716272, +49 521 52276622""",obortnik@yahoo.de,"rus,ukr",
+GERMANY,Pogosjan,Arsen,Bielefeld,Nordrhein-Westfalen,Habsburger Str. 9 33609 Bielefeld ,,"""+49 173 2741193, +49 521 96300618""",arsen.pogosjan@gmail.com,"rus,ukr",
+GERMANY,Hamm,Elena,Bochum,Nordrhein-Westfalen,Kornharpener Str. 222 44791 Bochum,,"""+49 176 84260435, +49 234 701095""",elp22@gmx.de,"eng, ukr",
+GERMANY,Hamm,Juri,Bochum,Nordrhein-Westfalen,Kornharpener Str. 222 44791 Bochum,,"""+49 176 84260436, +49 234 701095""",yuriihamm@aol.com,"rus,ukr",
+GERMANY,Piepenbrock,Olga,Bochum,Nordrhein-Westfalen,Gropiusweg 3 44801 Bochum,,"""+49 173 1910021, +49 234 4384888""",,"rus,ukr",
+GERMANY,Willms,Oxana ,Bonn,Nordrhein-Westfalen,Am Schoernchen 13 53177,,"""+49 228 24025384, +49 178 5517852""",oxana-willims@de-ru-ua.com,"rus,ukr,ger",
+GERMANY,Bondarenko,Vitaliy,Bonn,Nordrhein-Westfalen,Luisenstr. 123 53129 Bonn,,"""+49 174 4032492, +49 228 3601273""",vitaliybond@yahoo.de,"rus,ukr",
+GERMANY,Lerner-Khalil,Irina,Bonn,Nordrhein-Westfalen,Weißstraße 63 53123 Bonn,,"""+49 178 8341521, +49 228 74871849""",lira_81@yahoo.de,"rus,ukr",
+GERMANY,Machzier,Olga,Braak,Schleswig-Holstein,Matthaeus-Ber-Ring 2A,,"""+49 178 5580041""",olga.machzier@gmail.com,"ukr,rus,ger,eng",
+GERMANY,Graubmann,Lilia,Brandenburg,Schleswig-Holstein,Forellenweg 2e 15864 Wendisch Rietz,,"""+49 178 8483307, +49 33679 758692""",lilia_graubmann@web.de,"eng,rus,ukr",
+GERMANY,Atroshchenko,Maryana,Braunschweig,Niedersachsen,,,"""+49 171 5494756""",ma-kontakt@t-online.de,"rus,ukr",
+GERMANY,Gosman,Michail,Braunschweig,Niedersachsen,Riedestr. 2 38102 Braunschweig,,"""+49 172 5443494, +49 531 334941""",michail@gosman.de,"rus,ukr",www.gosman.de
+GERMANY,Krasota,Olga,Braunschweig,Niedersachsen,,,"""+49 176 22894848, +49 5314827015""",info@bs-uebersetzer.de,"rus,ukr",www.bs-uebersetzer.de
+GERMANY,Szybko-Streit,Alicja,Braunschweig,Schleswig-Holstein,Werder 8-9 38100,,"""+49 531 126066, +49 170 4002227""",alicja.szybko-streit@t-online.de,"pol,ger,bg,rus,ukr",www.abc-uebersetzungsbuero.de
+GERMANY,Levak,Kateryna,Bremen,Bremen,Busestr. 4b 28359 Bremen ,,"""+49 157 38786091, +49 421 363040""",bremen@wienersundwieners.de,"rus,ukr",www.wienersundwieners.de/bremen
+GERMANY,Palmer,Tatjana,Bremen,Bremen,Parkstraße 31 28209 Bremen ,,"""+49 177 7030080, +49 421 4310324""",tatjana.palmer@yahoo.de,"rus,ukr",
+GERMANY,Gulidov,Larissa,Bremen,Niedersachsen,Argonnenstraße 5 28211 Bremen,,"""+49 172 4359530, +49 4254 800328, +49 421 3305736""",gela-co@web.de,"rus,ukr",
+GERMANY,Letner,Tatjana,Bremen,Schleswig-Holstein,Franziskanerstraße 5 28195 Bremen,,"""+49 172 4212745, +49 421 326666""",info@bauer-uebersetzungen.de,"rus,ukr",
+GERMANY,Makolkin,Denis,Bremen,Schleswig-Holstein,Ollenhauerstraße 16 28279 Bremen,,"""+49 162 4317290""",denis.makolkin@gmail.com,"rus,ukr",
+GERMANY,Sklyarenko,Vyacheslav,Brühl,Baden-Württemberg,Ketscher Straße 38 68782 Brühl ,,"""+49 157 52680330, +49 6202 7609932""",info@yourtranslation.de,"eng,rus,ukr",www.yourtranslation.de
+GERMANY,Puhlmann,Nina,Büden,Sachsen-Anhalt,Woltersdorfer Str. 22 39391 Büden,,"""+49 39224 7830""",,ukr,
+GERMANY,Gürich-Wehrhahn,Olga,Celle,Niedersachsen,Hausbugenweg 2 29223 Celle,,"""+49 172 59444427, +49 5141 31347""",olgagw@gmx.de,"rus,ukr",www.uebersetzer-guerich.de
+GERMANY,Karyachun,Oksana,Celle,Niedersachsen,Am Holzhof 23 29221 Celle,,"""+49 172 4272325, +49 5141 2197730""",ok.xenia@gmx.de,"rus,ukr",
+GERMANY,Jähnig-Westendorff,Natalija,Chorin,Brandenburg,Zur Ragoese 4a 16230,,"""+49 3334 387144""",n.jaehnig@t-online.de,"ukr,rus,ger",
+GERMANY,Maidanjuk,Doris,Cottbus,Sachsen,Ringstraße 16 B 03050 Cottbus,,"""+49 355 530279""",doris@sprachendienst-maidanjuk.de,"rus,ukr",
+GERMANY,Reßl,Karina,Dietenheim,Baden-Württemberg,Färberstraße 2 89165 Dietenheim,,"""+49 159 05276887""",k.ressl@gmx.de,ukr,www.uebersetzungen-ressl.de
+GERMANY,Moor,Irene,Dillingen,Saarland,Stettiner Straße 26 b 66763 Dillingen,,"""+49 6831 707807""",,"rus,ukr",
+GERMANY,Moor,Natalie,Dillingen,Saarland,"Heiligenbergstr. 28-30, 66763 Dillingen",,"""+49 170 9887538""",nataliemoor@gmx.net,"rus,ukr",
+GERMANY,Borgschulze,Larysa,Dortmund,Nordrhein-Westfalen,Alfred-Reinoldsmann-Weg 11 44359 Dortmund,,"""+49 176 47715668, +49 231 4771829""",larysa_borgschulze@yahoo.de,"rus,ukr",
+GERMANY,Klier,Olena,Dortmund,Nordrhein-Westfalen,Missundestr. 63 44145 Dortmund,,"""+49 176 38708970""","elena.klier@gmail.com, anfrage@o-klier.de","rus,ukr",
+GERMANY,Piskover,Stanislav,Dortmund,Nordrhein-Westfalen,Heiliger Weg 89 44141 Dortmund,,"""+49 176 24114173, +49 231 49688922""",piskover@web.de,ukr,
+GERMANY,Rabanus,Liudmyla,Dortmund,Nordrhein-Westfalen,Wickeder Str. 110 44319 Dortmund ,,"""+49 163 7422071, +49 231 3797067""",rabanusmila@gmail.com,"rus,ukr",
+GERMANY,Reitz-Krasko,Oleksandra,Dortmund,Nordrhein-Westfalen,Am Westheck 96 44309 Dortmund ,,"""+49 157 74573736, +49 231 53222667""",reitz.krasko@gmail.com,"rus,ukr",
+GERMANY,Winkler,Edgar,Dortmund,Nordrhein-Westfalen,Semerteichstr. 85 44141 Dortmund,,"""+49 179 7333975, +49 231 421178""",edgar_winkler@gmx.de,"rus,ukr",
+GERMANY,Winkler,Luba,Dortmund,Nordrhein-Westfalen,Semerteichstr. 85 44141 Dortmund,,"""+49 179 7333976, +49 231 421178, +49 231 421179""",edgar_winkler@gmail.ru,"rus,ukr",
+GERMANY,Ballhaus,Julia,Dresden,Sachsen,Steirische Straße 29 01279 Dresden,,"""+49 151 50036968, +49 3513126414""",uebersetzer-julia.ballhaus@web.de,"rus,ukr",www.ukrainisch-russisch-deutsch.de
+GERMANY,Bergert,Tetyana,Dresden,Sachsen,Böcklinstraße 19 01139 Dresden,,"""+49 176 20682552, +49 35179546212""",,"rus,ukr",
+GERMANY,Bock,Natalija,Dresden,Sachsen,Ebereschenweg 4 01328 Dresden,,"""+49 172 3766499""",natalija.bock@gmx.de,"rus,ukr",www.natalija-bock.de
+GERMANY,Keller,Irina,Dresden,Sachsen,Palmstraße 1 01067 Dresden,,"""+49 1722750794, +49 2961989774, +49 17684865375, +49 35187404775""",dolmetscherin@gmx.de,"rus,ukr",
+GERMANY,Martynyak,Iryna,Dresden,Sachsen,Münchner Platz 4 01187 Dresden,,"""+49 172 8721078, +49 35 14702547""",,"rus,ukr",
+GERMANY,Romashkevychus,Alina,Dresden,Sachsen,,,"""+49 176 82083411""",alina-ua@gmx.de,"rus,ukr",
+GERMANY,Wackernagel,Anna,Dresden,Sachsen,,,"""+49 351 3100108""",,"rus,ukr",
+GERMANY,Berezhna,Tetyana,Duisburg,Sachsen,,,"""+49 15206701307""",tanjaberezhna@gmail.com,"eng,rus,ukr",
+GERMANY,Flug,Olga,Düsseldorf,Nordrhein-Westfalen,,,"""+49 2162 5306866""",olga.flug@googlemail.com,"eng,rus,ukr",
+GERMANY,Leschinski,Tatjana,Düsseldorf,Nordrhein-Westfalen,Immigrather Straße 4 40591 Düsseldorf ,,"""+49 151 10504089, +49 211 79520888""",tatlesch@yahoo.com,"eng,rus,ukr",
+GERMANY,Nordheimer,Anna,Düsseldorf,Nordrhein-Westfalen,Mörsenbroicher Weg 191 40470 Düsseldorf ,,"""+49 172 2536636, +49 211 46872114""",info@uebersetzer-russisch-ukrainisch.com,"rus,ukr",
+GERMANY,Samsonija,Olga,Düsseldorf,Nordrhein-Westfalen,"
+Ahnenweg 5 a 40219 Düsseldorf ",,"""+49 173 2832717, +49 211 91181069""",samsoniia@gmx.de,"rus,ukr",
+GERMANY,Vereschahina,Iryna,Düsseldorf,Nordrhein-Westfalen,,,"""+49 177 5471019, +49 211 41848876""",vereschahina@gmail.com,ukr,
+GERMANY,Lorenz,Oksana,Edingen-Neckarhausen,Rheinland-Pfalz,Hinter der Kirche 5 68535 Edingen-Neckarhausen,,"""+49 176 23269705""",oksana.lorenz@yahoo.com,"rus,ukr",
+GERMANY,Doroshenko,Oleksiy,Eichenau,Bayern,Birkenhain 5 82223 Eichenau,,"""+49 176 68020690, +49 8141 80660""",aleksdor@gmail.com,ukr,
+GERMANY,Wölbing,Ludmilla,Erfurt,Thüringen,Goethestraße 63 99096 Erfurt,,"""+49 152 34003118, +49 361 3450987""",IBWErfurt@aol.com,"rus,ukr",
+GERMANY,Meyer,Iryna,Erzhausen,Baden-Württemberg,Im Bensensee 23 64390 Erzhausen ,,"""+49 176 54584040, +49 6150 5080455""",uebersetzungen@iryna-meyer.de,"rus,ukr",www.iryna-meyer.de
+GERMANY,Romanov,Mykhaylo,Essen,Nordrhein-Westfalen,"
+An der Pierburg 8 45219 Essen ",,"""+49 172 9957931""",ljudkin@gmail.ru,ukr,
+GERMANY,Chayka,Nadiya,Falkensee,Bayern,"Nachtigallstraße 57 a, 14612 Falkensee",,"""+49 15901442779""",,ukr,
+GERMANY,Kataeva-Woltjes,Natalia,Fellbach,Baden-Württemberg,Birkenweg 26 70734 Fellbach,,"""+49 711 579215""",nataliawoltjes@web.de,"rus,ukr",
+GERMANY,Sulima,Polina,Flensburg,Schleswig-Holstein,Fördestraße 56 24944 Flensburg,,"""+49 152 52495172""",polina.sulima@gmx.net,"rus,ukr",
+GERMANY,Engelhardt,Sergej,Frankfurt,Saarland,Rhönstraße 139 60385 Frankfurt,,"""+49 177 7153913, +49 69 48004877""",fialko@gmx.de,"rus,ukr",
+GERMANY,Yena,Nataliya,Frankfurt am Main,Hessen,Walter-Kolb-Str. 1-3 60594,,"""+49 151 23533500, +49 69 66058126, +49 69 77019550""",contact@yena.de,"ukr,rus,ger,eng",yena.de
+GERMANY,Arnswald,Ljudmilla,Frankfurt am Main,Hessen,Wiesenau 49 60323 Frankfurt am Main,,"""+49 171 2430244""",luarnswald@web.de,"rus,ukr",
+GERMANY,Hawlitschek,Nadja,Frauenprießnitz,Saale-Holzland,OT Rodameuschel 38 07774,,"""+49 36421 30186, +49 151 50431421""",hawlitschek@t-online.de,"ger,rus,ukr",
+GERMANY,Bütehorn,Kateryna,Freinsheim,Rheinland-Pfalz,In den Bohngärten 28 67251 Freinsheim,,"""+49 176 84760158""",kateryne.buetehorn@gmx.de,"rus,ukr",
+GERMANY,Feyer,Olha,Fürth,Bayern,Albrecht-Duerer-Str. 19a 90766,,"""+49 911 7875871, +49 173 4743869""",olhafeyer@googlemail.com,"rus,ukr,ger",www.uebersetzungen-feyer.de
+GERMANY,Perlowa,Elena,Fürth,Bayern,Dr. Frank-Str. 12 90763 Fürth ,,"""+49 179 4598131, +49 911 21216463""",elena_perlowa@yahoo.de,"rus,ukr",
+GERMANY,Kutsenko,Sergey,Garbsen,Niedersachsen,Steinwartskamp 8 30826 Garbsen,,"""+49 163 2373524, +49 5131 4526843""",skbusinesspost@arcor.de,"rus,ukr",
+GERMANY,Riedel,Jana,Geilenkirchen,Nordrhein-Westfalen,Danziger Str. 11 52511 Geilenkirchen ,,"""+49 176 60813728""",iana.riedel@yahoo.de,"rus,ukr",
+GERMANY,Wenzel,Ludmila,Gera,Thüringen,Otto-Rothe-Straße 20 07549 Gera ,,"""+49 170 5223927, +49 365 7113464""",L.Wenzel@t-online.de,"rus,ukr",
+GERMANY,Kobro,Georg,Germersheim,Rheinland-Pfalz,August-Keiler-Straße 35 76726 Germersheim,,"""+49 176 22051660, +49 8191 8484, +49 7274 3488""",,"rus,ukr",
+GERMANY,Movchun,Yevgeniya,Germersheim,Rheinland-Pfalz,Ludwigstraße 24 76726 Germersheim,,"""+49 152 23655306""",info@movchun.de,"rus,ukr",www.movchun.de
+GERMANY,Volkotrub,Sergiy,Germersheim,Rheinland-Pfalz,c/o H. Ebinger Schliemannstraße 2 76726 Germersheim ,,"""+49 1523 6341200""",sergvolk77@meta.ua,"rus,ukr",
+GERMANY,Arnold,Tetyana,Gersfeld,Hessen,Tannenstraße 11 36129 Gersfeld,,"""+49 174 5801408""",tetyana_arnold@web.de,"eng,rus,ukr",
+GERMANY,Miladinovic,Aleksandar,Gießen,Rheinland-Pfalz,Neustatdt 31 35390 Gießen,,"""+49 163 6986863, +49 177 8475435""",info@gi-sprachen.de,"eng,rus,ukr,bel,bul,ron,slv",
+GERMANY,Kolesnyk,Oksana,Görlitz,Sachsen,,,"""+49 1724236529""",oxana.kolesnyk@gmail.com,"eng,rus,ukr",
+GERMANY,Shikida,Irena,Gottenheim,Baden-Württemberg,Thielstraße 7 79288 Gottenheim ,,"""+49 176 25997951""",irena_shikida@yahoo.de,"ukr,ger,rus",
+GERMANY,Stähle,Irene,Göttingen,Niedersachsen,Kreuzbergring 1 37075 Göttingen,,"""+49 157 39072339, +49 551 29126720""",info@staehle-kanzlei.de,ukr,
+GERMANY,Ehrlich,Zinaida,Günthersdorf,Sachsen-Anhalt,Falkenweg 5 06237 Leuna OT Günthersdorf ,,"""+49 176 29430709""",sinaida_ehrlich@yahoo.com,"rus,ukr",
+GERMANY,Höbald,Maryna,Halle,Sachsen-Anhalt,Marthastraße 13 06108 Halle,,"""+49 176 83138353, +49 345 9491097""",maryna-hoebald@hotmail.de,"rus,ukr",
+GERMANY,Mory,Jelena,Halle,Sachsen-Anhalt,Otto-Kilian-Straße 57 06110 Halle,,"""+49 16095010951, +49 345 78286632""","anel9@gmx.de, mory.fachuebersetzungen@googlemail.com ","rus,ukr",
+GERMANY,Rieger,Vera,Halle,Sachsen-Anhalt,Merseburger Straße 52 06110 Halle,,"""+49 172 8865180, +49 345 4707986""",Merseburg@sprachenservice.de,"rus,ukr",
+GERMANY,Sambale,Irina,Halle,Sachsen-Anhalt,Marthastraße 13 06108 Halle,,"""+49 152 28920141, +49 345 2940600""",sambale@hotmail.de,"rus,ukr",
+GERMANY,Schmidt,Valentina,Hamburg,Hamburg,Maxstr. 23 22089,,"""+49 40 20004459, +49 177 6650351""",valentina_schmidt@gmx.de,"ukr,ger,rus,eng",www.ukrainisch-uebersetzer.de
+GERMANY,Berndt,Iryna,Hamburg,Hamburg,Pezolddamm 178 22159 Hamburg,,"""+49 176 24926013""",iryna_berndt@web.de,"rus,ukr",
+GERMANY,Korniyenko,Oksana,Hamburg,Hamburg,Kroosweg 30a 21073 Hamburg,,"""+49 179 8665074, +49 40 76429787""",uebersetzen.hamburg@gmail.com,ukr,
+GERMANY,Dziuba,Olga,Hamm,Nordrhein-Westfalen,,,"""+49 177 5290781""",olga.dziuba@sprachenservice-do.de,"rus,ukr",
+GERMANY,Napolow-Kaimer,Claudia,Hannover,Niedersachsen,Podbielskistr. 87 30177,,"""+49 511 8994576, +49 172 5112396""",claudia.napolow@ihr-uebersetzer.com              ,"ger,rus,ukr",
+GERMANY,Fesh de Jour,Yuriy,Hannover,Niedersachsen,,,"""+49 176 23848708""",y.feshdejour@mail.de,"rus,ukr",www.sfb597.uni-bremen.de
+GERMANY,Melnik,Igor,Hannover,Niedersachsen,,,"""+49 171 7929498, +49 511 5497646""",,"rus,ukr",
+GERMANY,Rauzov,Ingo,Hannover,Niedersachsen,Julius-Brecht-Str. 10 30627 Hannover,,"""+49 511 577480, +49 511 2832060""",postfachhier@t-online.de,"eng,rus,ukr",
+GERMANY,Reschetniak,Renata,Hannover,Niedersachsen,Podbielskistraße 87 30177 Hannover,,"""+49 171 4099761, +49 511 8994576""",sibolikto@web.de,"rus,ukr",www.trilingva.com
+GERMANY,Rost,Larissa,Hannover,Niedersachsen,"
+Schloßstr. 2 30159 Hannover ",,"""+49 151 67837121, +49 511 320936""",lararost@gmx.de,"rus,ukr",
+GERMANY,Rudat,Natalie,Hannover,Niedersachsen,Bebelstraße 3 30459 Hannover,,"""+49 179 2026141, +49 511 10549733""",NatalieRudat@me.com,"eng,rus,ukr",
+GERMANY,Schnar,Jürgen,Hannover,Niedersachsen,Ricklinger Stadtweg 59 30459 Hannover ,,"""+49 176 12224490, +49 511 8007240""",info@ihrdolmetscher.de,"kaz,rus,ukr",www.ihrdolmetscher.de
+GERMANY,Uwarow,Eugen,Hannover,Niedersachsen,Celler Straße 60 30161 Hannover,,"""+49 171 7055135, +49 511 4755328, +49 179 1311050, +49 511 4755394""",eugenuwarow@gmx.net,"rus,ukr",
+GERMANY,Tsesis,Elena,Heidelberg,Baden-Württemberg,Lindenweg 39 69126,,"""+49 6221 351465""",elena@tsesis.de,"rus,ukr,ger",
+GERMANY,Hofmann,Elena ,Heidelberg,Baden-Württemberg,Mannheimerstr. 5 69115,,"""+49 6221 652012, +49 171 6938456""",elena.hofmann@t-online.de,"rus,ukr,eng,ger",
+GERMANY,Miroshnichenko-Braun,Oksana,Heidelberg,Baden-Württemberg,Quinckestr.22-24 69120 Heidelberg,,"""+49 172 9098546, +49 6221 413715, +49 6221 401363""",miroshnichenko-braun@gmx.de,"rus,ukr",
+GERMANY,Ptashnyk,Stefaniya,Heidelberg,Baden-Württemberg,Bergstraße 58 69120 Heidelberg,,"""+49 174 1634247""",,ukr,
+GERMANY,Shcherbakova,Valeriya,Heidelberg,Baden-Württemberg,Hauptstraße 247 69117 Heidelberg,,"""+49 176 612213327, +49 6221 635652""",vscherbakova@yahoo.de,"rus,ukr",
+GERMANY,Soultanian,Nataliya,Heidelberg,Baden-Württemberg,Gaisbergstr. 50 69115 Heidelberg,,"""+49 178 1378534""",,ukr,
+GERMANY,Jachmann,Tatjana,Heidesee,Brandenburg,Hauptstraße 35a 15754 Heidesee OT Friedersdorf,,"""+49 160 2377068, +49 33767 80470""",tatjana.jachmann@gmx.de,"rus,ukr",
+GERMANY,Holzapfel,Svitlana,Heidesheim,Rheinland-Pfalz,Sandmühle 98 55262 Heidesheim,,"""+49 6132 713212""",svitlana.holzapfel@t-online.de,"rus,ukr",
+GERMANY,Polishchuk,Svetlana,Herne,Nordrhein-Westfalen,Gelsenkircher Str. 211 44651 Herne ,,"""+49 176 99269022, +49 2325 9926523""",svetlana.p@gmx.de,"rus,ukr",
+GERMANY,Smolyar,Olga,Herne,Nordrhein-Westfalen,Manteuffelstr. 7 d 44623 Herne,,"""+49 172 5735585, +49 2323 22575""","olga@smolyar.de, olga@smolyar.biz","rus,ukr",
+GERMANY,Lüse-Dominnik,Swetlana,Jena,Thüringen,Von-Hase-Weg 1 07743 Jena,,"""+49 172 3467169, +49 3641 362235, +49 3641 346598""",swetlana.luese@t-online.de,"rus,ukr",
+GERMANY,Sosedko,Irina,Kaarst,Nordrhein-Westfalen,Edelweißstraße 40 41564 Kaarst ,,"""+49 157 76133262, +49 2131 4777293""",info@ukr-deutsch.de,"rus,ukr",
+GERMANY,Demut,Olga,Karlsruhe,Rheinland-Pfalz,Augartenstraße 80 76137 Karlsruhe,,"""+49 176 23505836""",o.komyakova@gmx.de,"rus,ukr",
+GERMANY,Muchnyk,Vadym,Karlsruhe,Rheinland-Pfalz,Pfaffstraße 16 76727 Karlsruhe,,"""+49 721 50096194""",vadimmuchnyk@gmail.com,"rus,ukr",
+GERMANY,Fredebold,Olena,Kellinghusen,Schleswig-Holstein,Heisterstieg 3a 25548 Kellinghusen,,"""+49 176 63393148, +49 4822 360814""",o.fredebold@gmx.de,"rus,ukr",
+GERMANY,Berenstein,Anna,Kiel,Schleswig-Holstein,"
+Bergenring 32 24109 Kiel ",,"""+49 1577 3060134, +49 431 2484385""",Anna.Berenstein@gmx.de,"rus,ukr",www.kiel-dolmetscher.de
+GERMANY,Panych,Nazar,Kiel,Schleswig-Holstein,Westring 276 24116 Kiel,,"""+49 176 20343275, +49 431 22140280""",nazar.panych@gmail.com,"rus,ukr",
+GERMANY,Svista,Tatiana,Kiel,Schleswig-Holstein,Randerstr. 4 24109 Kiel,,"""+49 152 02754750, +49 431 526663""",tsvi@gmx.de,"rus,ukr",
+GERMANY,Michaelis,Viktor,Kleinich,Rheinland-Pfalz,Am Sportplatz15 54483 Kleinich,,"""+49 170 3811068, +49 6536 429""",info@michaelis-uebersetzungen.de,"rus,ukr",www.michaelis-uebersetzungen.de
+GERMANY,Fischer,Nataliia,Klingenthal,Sachsen,,,"""+49 15172080289""",nathalie-fischer@t-online.de,"eng,rus,ukr",
+GERMANY,Buda,Lidiya,Koblenz,Bayern,Hummelweg 5 56072 Koblenz,,"""+49 176 89248427, +49 261 39050186""",budal@cip.ifi.lmu.de,ukr,
+GERMANY,Kharif,Svetlana,Koblenz,Rheinland-Pfalz,Im Hüttenstück 11 56070 Koblenz,,"""+49 176 2927 2535, +49 261 9823 860""",svetlanakharif@yahoo.de,"eng,rus,ukr",
+GERMANY,Kazemi,Olga,Köln,Nordrhein-Westfalen,Bachstraße 2 51063 Köln,,"""+49 1746832960""",o.kazemi0@yahoo.de,"rus,ukr",
+GERMANY,Palutke,Maryna,Köln,Nordrhein-Westfalen,Helmholztstr. 36 F 51145 Köln ,,"""+49 176 36372839, +49 2203 9089913""",maryna.palutke@gmail.com,"rus,ukr",
+GERMANY,Prokopenko,Olena,Köln,Nordrhein-Westfalen,Hermann-Kunz-Straße 13 51067 Köln,,"""+49 163 3712633, +49 22129429445""",elena.prokopenko@gmail.com,"rus,ukr",
+GERMANY,Zhurakhovskyi,Valeriy,Köln,Nordrhein-Westfalen,Tacitusstr. 7 A 50968 Köln ,,"""+49 221 766962, +49 221 7602519""",zhura@t-online.de,"rus,ukr",
+GERMANY,Zuckermann,Nataliya,Köln,Nordrhein-Westfalen,Winterberger Straße 53 51109 Köln ,,"""+49 152 02413541""",n.zuckermann@gmx.de,"rus,ukr",
+GERMANY,Grushko,Pavlo,Köln,Rheinland-Pfalz,Hermann-Kunz-Straße 13 51067 Köln,,"""+49 1577 8453 639, +49 221 2942 9445, +49 178 8928 433""",pavlo.grushko@gmail.com,"rus,ukr",www.grushko.de
+GERMANY,Weigelt,Tilo,Königs Wusterhausen,Brandenburg,Erich-Weinert-Straße 14 15711 Königs Wusterhausen,,"""+49 3375 2462391""",tiloweigelt@aol.com,"rus,ukr",
+GERMANY,Kurylas,Oksana,Krefeld,Nordrhein-Westfalen,Dammstraße 10 47829 Krefeld,,"""+49 1520 6658000, +49 2151 1585305""",kurylas@ukrainisch-uebersetzen.de,"rus,ukr",
+GERMANY,Steenblock,Svitlana,Leer,Niedersachsen,Evenburgallee 52 26789 Leer ,,"""+49 491 20488769, +49 178 7214174""",linguist.leer@gmail.com,"rus,ukr",
+GERMANY,Artamina,Alina,Leipzig,Sachsen,,,"""+49 17623515071, +49 34135580301""",a.artamina@googlemail.com,"rus,ukr",
+GERMANY,Bulisch,Jewgenija,Leipzig,Sachsen,Thaerstraße 6 04129 Leipzig,,"""+49 176 51155400, +49 341 9102230, +49 176 78645691""",,"rus,ukr",
+GERMANY,Manziy,Andriy,Leipzig,Sachsen,Zingster Str. 20 (Wohnung Nr. 1103) 04207 Leipzig,,"""+49 162 8904844""",,"rus,ukr",
+GERMANY,Matijaschtschuk,Igor,Leipzig,Sachsen,Deiwitzweg 10 04207 Leipzig ,,"""+49 179 7860712, +49 341 9423461""",im-buero@gmx.de,"pol,rus,ukr ",
+GERMANY,Rieger,Vera,Leipzig,Sachsen,Gottschedstraße 12 04109 Leipzig ,,"""+49 341 2117861, +49 341 9806200""",,"rus,ukr","www.sprachenservice.de, www.uebersetzerin-ukrainisch-russisch.de "
+GERMANY,Istomina,Irina,Leipzig ,Sachsen,Postfach 10 05 39  04005,,"""+49 341 492 7023, +49 177 8297892""",irina.istomina@t-online.de,"rus,ger,ukr",www.beeidigt-russisch-ukrainisch.de
+GERMANY,Monakov,Iryna,Leipzig ,Sachsen,Postfach 410124 04259,,"""+49 341 92715244, +49 179 7535485""",irina.monakov@gmail.com,"ukr,rus,ger,es",
+GERMANY,Schallenberg,Ludmila,Lengerich,Nordrhein-Westfalen,"Ringelerstr. 50, 49525 Lengerich",,"""+49 5481 82449""",l.schallenberg@freenet.de,"rus,ukr",
+GERMANY,Brandl,Tamara,Lieskau,Sachsen-Anhalt,Krokusweg 11 06120 Lieskau,,"""+49 160 8314571, +49 345 5500632""",Tamara.Brandl@t-online.de,"rus,ukr",
+GERMANY,Rosmait,Ludmilla,Lübeck,Schleswig-Holstein,Adolfstraße 9 23568 Lübeck,,"""+49 179 1154860, +49 451 6129002""",rosmait@t-online.de,"rus,ukr",www.rosmait.de
+GERMANY,Ueberwolf,Irene,Lübeck,Schleswig-Holstein,Schwartauer Allee 14 a 23554 Lübeck,,"""+49 171 2777397, +49 451 4866064""",irene.ueberwolf@t-online.de,"rus,ukr",
+GERMANY,Wilms,Ljuba,Lutherstadt Eisleben,Sachsen-Anhalt,Johann-Agricola-Straße 4 06295 Lutherstadt Eisleben,,"""+49 3475 682628, +49 3475 682628""",,"rus,ukr",
+GERMANY,Sommerfeld,Elena,Magdeburg,Sachsen-Anhalt,Eisvogelstraße 15 39110 Magdeburg,,"""+49 171 1661689, +49 391 7216204""",CorLena@t-online.de,"rus,ukr",
+GERMANY,Breuer,Artem,Mahlberg,Baden-Württemberg,Roemerstr. 45 77972,,"""+49 151 15297606, +49 7825 8699609 """,artem-breuer@t-online.de,"ger,rus,ukr",www.ua-de-rus.de
+GERMANY,Pavlov,Marina,Mainz,Rheinland-Pfalz,Frauenlobstr. 64 55118 Mainz,,"""+49 151 51831968, +49 6131 8862621""",Marina-P86@web.de,"rus,ukr",
+GERMANY,Shchyhlevska,Natalia,Mainz,Rheinland-Pfalz,Maria-Ward-Str. 6,,"""+49 160 94981221, +49 6131 253487""",nat28@web.de,ukr,
+GERMANY,Vevera,Yuliya,Mainz,Rheinland-Pfalz,Carlo-Mierendorff-Str. 6a 55124 Mainz,,"""+49 157 74001053""",juliasumy@yahoo.com,"rus,ukr",
+GERMANY,Zinaliieva,Alime,Mainz,Rheinland-Pfalz,Rüsselsheimer Allee 76 55130 Mainz,,"""+49 152 53396715""",alime_zi@mail.ru,"rus,ukr",
+GERMANY,Heryliv,Nataliya ,Mainz ,Rheinland-Pfalz,Rulaenderstr. 11 a 55129,,"""+49 6131 6223103""",natali_geryliv@yahoo.com,"ukr,rus,ger",
+GERMANY,Bässler,Galyna,Mannheim,Baden-Württemberg,Morgenröte 20 68305 Mannheim,,"""+49 174 2460856, +49 621 32539337""",galyna.baessler@nexgo.de,"rus,ukr",
+GERMANY,Bauschke,Elena,Mannheim,Baden-Württemberg,Straßburger Ring 128 68229 Mannheim,,"""+49 171 4170743, +49 621 4842976""",elena.bauschke@arcor.de,"rus,ukr",
+GERMANY,Domchak,Vira,March,Baden-Württemberg,Am Galgenacker 20 79232,,"""+49 176 62092781""",d.vira@yahoo.de,"ukr,ger",
+GERMANY,Pankrath,Rolf,Markkleeberg,Thüringen,Käthe-Kollwitz-Str. 32 04416 Markkleeberg ,,"""+49 172 3186089, +49 34299 78182""",Pankrath@sprachenservice.de,"rus,ukr,slo,bul",www.sprachenservice.de
+GERMANY,Nolte,Viktoria,Meckenheim,Nordrhein-Westfalen,Theodor-Storm-Str.3 53340 Meckenheim ,,"""+49 179 4815194, +49 2225 9009598""",nolteviktoria@gmail.com,"rus,ukr",
+GERMANY,Kromm,Irina,Metzingen,Baden-Württemberg,Max-Eyth-Straße 58 72555 Metzingen ,,"""+49 160 91906804, +49 7123 9561253, +49 7123 3990488""",irina-kromm@web.de,"rus,ukr",www.kromm.biz
+GERMANY,Bougie,Nataliya,Mönchengladbach,Nordrhein-Westfalen,Lindenstr. 124 41063,,"""+49 2161 3032997, +49 1573 8445415 """,natalie@bougie-marketing.de,"rus,ukr,ger",
+GERMANY,Jaroscak,Jaroslava,Mönchengladbach,Nordrhein-Westfalen,Hamerweg 114 41068 Mönchengladbach,,"""+49 177 4152378, +49 216 1179653""",jaroscak@web.de,"rus,ukr",
+GERMANY,Kuhlen,Olga,Mönchengladbach,Nordrhein-Westfalen,Schillerstraße 46 41061 Mönchengladbach,,"""+49 162 4409631, +49 2161 294074""","okuhlen@gmx.de, info@interpres-ok.de","rus,ukr",
+GERMANY,Stefanov,Sorjana,Mönchengladbach,Nordrhein-Westfalen,Hindenburgstr. 337 41061 Mönchengladbach ,,"""+49 172 2642283, +49 2161 182960""",info@orbis-uebersetzungen.de,"eng,rus,ukr",
+GERMANY,Dietrich,Lessia,Mössingen,Baden-Württemberg,Höfgasse 13 72116 Mössingen ,,"""+49 7473 3782382""",,ukr,
+GERMANY,Schneider,Anna,Mudersbach,Rheinland-Pfalz,Adolfstr. 6 57555,,"""+49 271 25093634, +49 178 5190699, +49 271 25082323""",annaschneider.kh@gmail.com,"rus,ukr,ger",www.medizinische-uebersetzungen-schneider.de
+GERMANY,Lipski,Yanina,München,Bayern,Humpelstr. 7 81476,,"""+49 89 4111 8047, +49 163 9146480""",mail@lipski-translation.com,"rus,ger,ukr",
+GERMANY,Yunko,Michael,München,Bayern,Rosemarie-Fendel-Bogen 21 81245,,"""+49 89 452 444 77, +49 157 35847588""",michael.yunko@kanzlei-yunko.com,"ukr,ger",www.kanzlei-yunko.com
+GERMANY,Struk,Olessia,München,Bayern,Pappenheimstr. 7 80335,,"""+49 179 5490519, +49 89 33094135""",info@s-l-s.eu,"ukr,ger,rus",www.s-l-s.eu
+GERMANY,Berkmiller,Tamara,München,Bayern,Lublinitzer Str. 18 81929 München ,,"""+49 176 86017044""",t.berkmiller@web.de,"rus,ukr",
+GERMANY,Gerlach,Oksana,München,Bayern,Rümannstr. 62 80804 München,,"""+49 177 3208051, +49 89 30768840""",oksana.gerlach@web.de,ukr,www.jura-dolmetscher.de
+GERMANY,Kotiouk,Katerina,München,Bayern,Oberföhringer Str. 242a 81925 München ,,"""+49 176 41239264, +49 89 35899282""",kotiuk@yahoo.de,ukr,
+GERMANY,Kovalenko,Olga,München,Bayern,Max-Bill-Str. 38 80807 München ,,"""+49 176 62023311, +49 89 90165896""",kovalenko.olga.ua@gmail.com,ukr,www.olga-kovalenko.de
+GERMANY,Lipp,Alla,München,Bayern,Georg-Hager-Str. 6 81369 München,,"""+49 174 3085083, +49 89 69998622""",alla.lipp@web.de,"rus,ukr",www.alla-lipp.de
+GERMANY,Nöbauer,Oksana,München,Bayern,Dachauer Str. 171 80636 München,,"""+49 170 9365311, +49 89 21890329""",noebauer_oksana@web.de,ukr,
+GERMANY,Reseneder,Marina,München,Bayern,"
+Willstätterstraße 41 80999 München ",,"""+49 172 1662837""",marina.reseneder@t-online.de,ukr,
+GERMANY,Rosinowa,Irina,München,Bayern,Carola-Neher-Str. 38 81379 München,,"""+49 171 3251234, +49 89 96201213""",rosinowa.rottler@t-online.de,"rus,ukr",
+GERMANY,Rusam,Oksana,München,Bayern,Am Himbeerschlag 2 80935 München ,,"""+49 177 1912573, +49 89 3516448""",oksana.kisil@yahoo.de,ukr,
+GERMANY,Schwalbe,Natalia,München,Bayern,Werner-Egk-Bogen 39 80939 München,,"""+49 160 7561871, +49 89 37157470""",Natalia.Schwalbe@verdio.com,ukr,
+GERMANY,Stoyenko,Ilona,München,Bayern,Puechbergerstraße 20 81549 München,,"""+49 162 6017250""",ilona@stoyenko.de,"rus,ukr",www.stoyenko.de
+GERMANY,Yaremko,Roman,München,Bayern,Franz-Wolter-Str. 15 81925 München,,"""+49 179 7337636, +49 89 21965669""",info@german2ukrainian.de,ukr,www.german2ukrainian.de
+GERMANY,Yeremenko,Anton,München,Bayern,Oefelestr. 5 81543 München,,"""+49 173 1062164, +49 89 186553""",anton-y@arcor.de,"rus,ukr",
+GERMANY,Junker,Evelina,München,Bayern,Steinhauser Str. 44 81677,,"""+49 89 21580442, +49 176 22158783""",evelina.junker@arcor.de,"ger,ukr,rus",www.ubersetzungen-junker.de
+GERMANY,Kant,Elena,Münster,Nordrhein-Westfalen,Warendorfer Str. 108 48145 Münster,,"""+49 179 9815845""",elena.kant@uni-muenster.de,"eng,rus,ukr",
+GERMANY,Lubarski,Vladimir,Münster,Nordrhein-Westfalen,Travelmannstr.19 48153 Münster,,"""+49 251 39502510""",lubarski-vladimir@mail.ru,"rus,ukr",
+GERMANY,Mokhov,Serhiy,Münster,Nordrhein-Westfalen,Niedersachsenring 24 48147 Münster,,"""+49 176 56947069""",mail@serhiymokhov.de,"rus,ukr",
+GERMANY,Belianki,Tetyana,Neustadt,Rhineland-Palatinate,Am Speyerbach 32 A 67433,,"""+49 6321 5790320, +49 176 24900218""",info@uebersetzungen-belianki.de,"rus,ukr,ger,eng",www.uebersetzungen-belianki.de
+GERMANY,Borchers,Irina,Norderstedt,Schleswig-Holstein,Garstedter Feldstr. 27B 22850,,"""+49 40 31108997, +49 176 50398670""",info@borchers-translations.de,"rus,ukr,eng,ger",www.borchers-translations.de
+GERMANY,Peters,Nataliia,Norderstedt,Schleswig-Holstein,Achternfelde 57 D 22850 Norderstedt,,"""+49 176 55920406""",,"rus,ukr",
+GERMANY,Zimmermann,Irina,Nürnberg,Bayern,Hugo-Junkers-Str. 12 90411,,"""+49 911 525207, +49 170 2725563""",info@irinazimmermann.de,"ukr,rus,ger,eng",www.irinazimmermann.de
+GERMANY,Nerosnak,Nadja,Nürnberg,Bayern,Burgundenstr. 14 90461,,"""+49 911 80191780, +49 172 1312758""",info@its-uebersetzungen.de,"ukr,rus,ger",www.its-uebersetzungen.de
+GERMANY,Fleyer,Kira,Oberursel (Taunus),Schleswig-Holstein,Sudetenstraße 29 61440 Oberursel (Taunus),,"""+49 179 5161030""",k.fleyer@gmail.com,"rus,ukr",
+GERMANY,Matz,Irina,Oldenburg,Schleswig-Holstein,Elisabethstraße 4 26135 Oldenburg,,"""+49 172 4302168, +49 441 2488208""",uebersetzungen.matz@t-online.de,"eng,rus,ukr,bel",
+GERMANY,Grebnev,Ruslana,Osnabrück,Niedersachsen,Ernst-Sievers-Straße 29 49078 Osnabrück ,,"""+49 170 4178439, +49 541 75099518""",ruslana.grebnev@web.de,"rus,ukr",
+GERMANY,Rosenblum,Oleg,Osnabrück,Niedersachsen,Sutthauser Straße 23 49080 Osnabrück ,,"""+49 176 22843855, +49 541 97022077""",olegrosenblum@freenet.de,"rus,ukr",
+GERMANY,Stührenberg,Irina,Osnabrück,Niedersachsen,Mozartstr. 44 49076 Osnabrück,,"""+49 176 55214765, +49 541 45589""",info@dolmet.de,"rus,ukr",www.dolmet.de
+GERMANY,Sundov,Viktoria,Ostfildern,Baden-Württemberg,"Bonhoefferstraße 17, 73760 Ostfildern",,"""+49 163 8444601, +49 711 844460""",ViktoriaSundov@gmx.net,ukr,
+GERMANY,Suchowij,Jurij,Petersberg,Sachsen-Anhalt,Am Lehmberg 28 06193 Petersberg,,"""+49 174 3005560""",kontakt@suchowij.de,"rus,ukr",
+GERMANY,Siegle,Edmund,Pforzheim,Baden-Württemberg,Lützowstr. 11 75177 Pforzheim,,"""+49 151 10435995, +49 7231 65532""",residenz5@gmx.de,"rus,ukr",
+GERMANY,Wenn,Svitlana,Pinneberg,Schleswig-Holstein,Ludwig-Meyn-Str. 8 25421 Pinneberg,,"""+49 171 6145644, +49 4101 810444""",lana.wenn@t-online.de,"rus,ukr",
+GERMANY,Bilogub,Mariia,Potsdam,Brandenburg,Johannes-R.-Becher-Straße 48 14478 Potsdam,,"""+49 17689612365""",m.bilogub@yandex.com,"rus,ukr",
+GERMANY,Maschitzki,Nella,Potsdam,Brandenburg,Hans-Marchwitza-Ring 31 14473 Potsdam ,,"""+49 171 6202664, +49 331 711491""",nellapdm@t-online.de,"rus,ukr",
+GERMANY,Jarymowycz,Irena,Rastatt,Baden-Württemberg,Eichenstraße 9 76437 Rastatt,,"""+49 178 2092243, +49 89 989727""",irenajarymowycz@web.de,"pol,rus,ukr ",
+GERMANY,Barkhash,Olga,Regensburg,Rheinland-Pfalz,Chamer Str. 74 93057 Regensburg,,"""+49 94184295""",drbulgakow@aol.com,"eng,ukr",
+GERMANY,Bassler,Lena,Reinbek,Schleswig-Holstein,Kornblumenring 56 21465 Reinbek,,"""+49 160 96742283""",olena.bassler@googlemail.com,"rus,ukr",
+GERMANY,Jede,Tetiana,Reinheim-Georgenhausen,Nordrhein-Westfalen,Am Scholzenberg 15 64354 Reinheim-Georgenhausen,,"""+49 163 6196982, +49 6162 9145453""",tetiana.jede@web.de,ukr,
+GERMANY,Adler,Tetiana,Reken,Nordrhein-Westfalen,Feldweg 2 48734 Reken,,"""+49 152 05848150""",adler.tanja.79@gmail.com,"rus,ukr",
+GERMANY,Nyhues,Olena,Rheine,Nordrhein-Westfalen,"
+Mühlhausenweg 6 48429 Rheine ",,"""+49 5971 9869495""",Elmail5@gmx.net,"rus,ukr",
+GERMANY,Großmann,Iryna,Rodgau,Hessen,Martin-Niemöller-Str. 9 63110 Rodgau,,"""+49 160 92006524""",iryna.grossmann@gmx.de,ukr,
+GERMANY,Melnikova,Tetiana,Roth an der Our,Rheinland-Pfalz,Im Brodschrank 34 54675 Roth an der Our,,"""+49 151 43140144""",melnikova.lingvo@gmail.com,"rus,ukr",
+GERMANY,Oat,Viktoria,Saarbrücken,Saarland,Schumannstr. 59 66111,,"""+49 681 9656864, +49 179 6825198""",oatviktoria@web.de,"rus,ukr,ger",
+GERMANY,Fries,Julia,Saarbrücken,Saarland,Winterbergstr. 20 R 66119 Saarbrücken,,"""+49 173 3605732, +49 681 9354382""",friesju@freenet.de,"rus,ukr",
+GERMANY,Pretor,Iryna,Saarbrücken,Saarland,Spichererbergstraße 112 66119 Saarbrücken ,,"""+49 179 5391690, +49 681 9652922""",iryna-pretor@web.de,"rus,ukr",
+GERMANY,Schlapak,Natalia,Saarbrücken,Saarland,Hohenzollernstr. 84 d 66117 Saarbrücken,,"""+49 172 1043954, +49 681 9679972""",n.schlapak@googlemail.com,"eng,rus,ukr",
+GERMANY,Schöneberger,Olga,Saarbrücken,Saarland,Meerwiesertalweg 20 66123 Saarbrücken,,"""+49 172 6801632""",oschoeneberger@t-online.de,"rus,ukr,bel",
+GERMANY,Sidorova,Viktoria,Schäftlarn,Bayern,Aufkirchner Str. 58 82069 Schäftlarn,,"""+49 163 5559030, +49 8178 997226""",sidorova@gmx.net,"rus,ukr",
+GERMANY,Rank,Hartmut,Schochwitz,Sachsen-Anhalt,Eichenstraße 3 06198 Salzatal OT Schochwitz,,"""+49 179 5542950""",,"rus,ukr",
+GERMANY,Zimmer,Inna,Schwarzenbek,Schleswig-Holstein,Kollowerstraße 14 21493 Schwarzenbek ,,"""+49 178 9615355, +49 4151 8331865""",innazimmer@aol.com,"rus,ukr",www.innazimmer.com
+GERMANY,Kälber,Liudmyla,Seeheim-Jugenheim,Hessen,Schlossstraße 34 64342 Seeheim-Jugenheim,,"""+49 175 3728771, +49 6257 85830""",,ukr,
+GERMANY,Zielke,Irina,Sendenhorst,Nordrhein-Westfalen,Mauritz 17 48324 Sendenhorst ,,"""+49 173 7270042, +49 2526 938194""",irina.zielke@vodafone.de,"rus,ukr",
+GERMANY,Hohenstein,Valentina,Singen,Baden-Württemberg,Alter Grenzpfad 4 78224 Singen,,"""+49 7731 909125""",valentina.hohenstein@gmx.de,"rus,ukr",
+GERMANY,Lykhodid,Tetyana,Stade,Schleswig-Holstein,Gartenstraße 25 21680 Stade,,"""+49 176 30311002""",info@uebersetzer-ukrainisch-stade.de,"rus,ukr",uebersetzer-ukrainisch-stade.de
+GERMANY,Kröger,Yulia,Stutensee,Rheinland-Pfalz,Gründewaldstraße 13 76297 Stutensee ,,"""+49 157 76343323, +49 72+49 9548070""",kroeger_mail@gmx.de,"rus,ukr",
+GERMANY,Linse-Vriukalo,Igor,Stuttgart,Baden-Württemberg,Markelstr. 5 70193,,"""+49 711 93540050, +49 173 7930744""","ukrainisch-russisch-uebersetzungen@gmx.net, info@linse-vriukalo.de ","ukr,rus,ger,pol",
+GERMANY,Manams,Alexej,Stuttgart,Baden-Württemberg,Kappelbergstraße 62 70327 Stuttgart,,"""+49 170 3258671, +49 711 5306484""",perevod@gmx.de,"rus,ukr",
+GERMANY,Hein,Vira,Trier,Rheinland-Pfalz,Am Trimmelter Hof 45 54296 Trier,,"""+49 179 9035381, +49 651 5612374""",,"rus,ukr",
+GERMANY,Märtins,Susanna,Trier,Saarland,Im Freschfeld 3 54296 Trier,,"""+49 178 5527707""",susanna.maertins@arcor.de,"ita,rus,ukr",
+GERMANY,Stoll,Marta,Ulm,Baden-Württemberg,Beimerstetter Straße 39 89081 Ulm ,,"""+49 151 29115618, +49 731 14396060""",info@deukrus-uebersetzungen.de,ukr,www.deukrus-uebersetzungen.de
+GERMANY,Wangler,Anton,Ulm,Baden-Württemberg,Von-Hünefeld-Weg 4 89075 Ulm,,"""+49 163 5146881, +49 731 9217799""",anton.wangler@gmx.de,"rus,ukr",
+GERMANY,Dazuk,Natalia,Umkirch,Baden-Württemberg,"Im Brünneleacker 3, 79224 Umkirch",,"""+49 162 1328472""",nataliadazuk@yahoo.de,"rus,ukr",
+GERMANY,Kaiser,Viktoria,Wehr,Rheinland-Pfalz,,,"""+49 176 2043 7776""",,"rus,ukr",www.v-kaiser.de
+GERMANY,Bachun,Oresta,Weinheim,Rheinland-Pfalz,"Schlangenböhlweg 19, 69469 Weinheim",,"""+49 172 7258423, +49 6201 870840""",orysia@web.de ,"rus,ukr",
+GERMANY,Rotfuß,Erika,Weiskirchen,Saarland,Kirchenweg 28 66709 Weiskirchen,,"""+49 6876 1428""",,"rus,ukr",
+GERMANY,Pastushok,Tetyana,Wiesbaden,Hessen,Max-Planck-Ring 5 65205 Wiesbaden,,"""+49 160 93827061, +49 6122 587427""",tpastushok@yahoo.de,ukr,
+GERMANY,Seidel,Valentyna,Wiesbaden,Hessen,Dachsteinstraße 37 65199 Wiesbaden ,,"""+49 170 8766714, +49 611 89071335""",info@valentyna-seidel.de,"eng,rus,ukr",
+GERMANY,Frankholz,Jana,Wuppertal,Nordrhein-Westfalen,Holzer Straße 19 42119 Wuppertal,,"""+49 151 18146037""",yana.frankholz@gmail.com,"eng,rus,ukr",
+GERMANY,Zymenko,Alona,Zwickau,Sachsen,Feuerbachweg 12 08058 Zwickau,,"""+49 178 8125654""",alona.zymenko@abisz-service.de,"rus,ukr",
