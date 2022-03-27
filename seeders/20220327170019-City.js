@@ -25,15 +25,49 @@ module.exports = {
       const translators = await parseCsvContent(content)
       for await (const translator of translators) {
         const city = await models.City.findOne({ logging: false, where: { name: translator.city } })
+        const {
+          firstName,
+          lastName,
+          organisation,
+          streetAddress,
+          postalCode,
+          phone,
+          email,
+          website,
+          languages,
+          approved
+        } = translator
+        const newTranslator = await models.Translator.create({
+          firstName,
+          lastName,
+          organisation,
+          streetAddress,
+          postalCode,
+          phone,
+          email,
+          website,
+          languages,
+          approved
+        })
         if (city === null) {
-          const result = await models.City.create({
+          const newCity = await models.City.create({
             name: translator.city,
             region: translator.region,
             CountryId: country.id
           })
-          console.log('creted city', result.toJSON())
+          const assoc = await models.CityTranslator.create({
+            CityId: newCity.id,
+            TranslatorId: newTranslator.id
+          })
+          console.log('created city', newCity.toJSON())
+          console.log('created assoc', assoc.toJSON())
         } else {
+          const assoc = await models.CityTranslator.create({
+            CityId: city.id,
+            TranslatorId: newTranslator.id
+          })
           console.log('found city', city.toJSON())
+          console.log('created assoc', assoc.toJSON())
         }
       }
     }

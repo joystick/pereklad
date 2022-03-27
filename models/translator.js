@@ -21,7 +21,7 @@ module.exports = (sequelize, DataTypes) => {
     modelName: 'Translator'
   })
   Translator.associate = function (models) {
-    Translator.belongsToMany(models.City, { through: 'CityTranslator' })
+    Translator.belongsToMany(models.City, { as: 'Cities', through: 'CityTranslator' })
   }
   return Translator
 }
