@@ -13,6 +13,7 @@ module.exports = (sequelize, DataTypes) => {
   })
   City.associate = function (models) {
     City.belongsTo(models.Country)
+    City.belongsToMany(models.Translator, { through: 'CityTranslator' })
   }
   return City
 }
