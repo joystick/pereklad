@@ -19,7 +19,6 @@ module.exports = {
   async up (queryInterface, Sequelize) {
     const list = await fs.promises.readdir(path.resolve('seeders', 'data'))
     for await (const filename of list) {
-      console.log('=================================')
       const isoCode = filename.replace(/\.csv/, '')
       const country = await models.Country.findOne({ logging: false, where: { isoCode } })
       const content = fs.readFileSync(path.resolve('seeders', 'data', filename), 'utf-8')
@@ -38,17 +37,6 @@ module.exports = {
         }
       }
     }
-
-    /**
-     *
-     * Add seed commands here.
-     *
-     * Example:
-     * await queryInterface.bulkInsert('People', [{
-     *   name: 'John Doe',
-     *   isBetaMember: false
-     * }], {});
-    */
   },
 
   async down (queryInterface, Sequelize) {
