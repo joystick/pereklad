@@ -1,4 +1,4 @@
-const { City, Country, CityTranslator, Translator } = require('../models')
+const { City, Country, Translator } = require('../models')
 
 async function countryTranslators (_, { isoCode }, { models }) {
   return await models.Country.findOne({

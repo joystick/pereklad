@@ -1,6 +1,7 @@
 const { gql } = require('apollo-server-express')
 
 const typeDefs = gql`
+
   type Country {
     id: ID!
     name: String!
@@ -34,6 +35,8 @@ const typeDefs = gql`
   type Query {
     allCountries: [Country!]!
     countryTranslators(isoCode: String): CountryTranslatorsResponse
+    user(id: Int!): User
+    me: User
   }
 
   type TranslatorResponse {
@@ -72,8 +75,19 @@ const typeDefs = gql`
     City: City
   }
 
+  type User {
+    id: Int!
+    email: String!
+  }
+
+  type AuthPayload {
+    token: String!
+    user: User!
+  }
+
   type Mutation {
     createCity(name: String!, region: String, CountryId: Int!): CreateCityResponse!
+    login (email: String!, password: String!): AuthPayload!
   }
 `
 module.exports = typeDefs
