@@ -13,10 +13,56 @@ const typeDefs = gql`
     name: String!
     region: String
     Country: Country
+    Translators: [Translator!]
+  }
+
+  type Translator {
+    firstName: String,
+    lastName: String,
+    organisation: String,
+    streetAddress: String,
+    postalCode: String,
+    phone: String,
+    email: String,
+    website: String,
+    languages: String,
+    approved: Boolean,
+    source: String,
+    Cities: [City!]
   }
 
   type Query {
     allCountries: [Country!]!
+    countryTranslators(isoCode: String): CountryTranslatorsResponse
+  }
+
+  type TranslatorResponse {
+    id: ID
+    firstName: String
+    lastName: String
+    organisation: String
+    streetAddress: String
+    postalCode: String
+    phone: String
+    email: String
+    website: String
+    languages: String
+    approved: Boolean
+    source: String  
+  }
+
+  type CityResponse {
+    id: ID
+    name: String
+    region: String
+    Translators: [TranslatorResponse]
+  }
+
+  type CountryTranslatorsResponse {
+    id: ID
+    name: String
+    isoCode: String
+    Cities: [CityResponse]
   }
 
   type CreateCityResponse {

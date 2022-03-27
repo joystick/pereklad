@@ -1,7 +1,27 @@
 const resolvers = {
   Query: {
     async allCountries (_, __, { models }) {
-      return models.Country.findAll({ include: 'Cities' })
+      return await models.Country.findAll({ include: 'Cities' })
+    },
+    async countryTranslators (_, { isoCode }, { models }) {
+      return await models.Country.findOne({
+        logging: false,
+        where: { isoCode },
+        attributes: ['id', 'name', 'isoCode'],
+        include: [{
+          model: models.City,
+          as: 'Cities',
+          attributes: ['id', 'name', 'region'],
+          include: [{
+            model: models.Translator,
+            as: 'Translators',
+            attributes: [
+              'id', 'firstName', 'lastName', 'organisation', 'streetAddress',
+              'postalCode', 'email', 'phone', 'website', 'languages', 'approved', 'source'
+            ]
+          }]
+        }]
+      })
     }
   },
   Mutation: {
