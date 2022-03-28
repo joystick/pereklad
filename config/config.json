@@ -2,5 +2,9 @@
   "development": {
     "dialect": "sqlite",
     "storage": "pereklad_development.sqlite"
+  },
+  "production": {
+    "dialect": "sqlite",
+    "storage": "pereklad_production.sqlite"
   }
 }
