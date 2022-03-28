@@ -7,4 +7,6 @@ yarn sequelize model:create --name Translator \
 
 yarn sequelize model:create --name CityTranslator --attributes CityId:number,TranslatorId:number
 
+yarn sequelize model:create --name User --attributes name:string,email:string,password:string
+
 yarn sequelize db:migrate
