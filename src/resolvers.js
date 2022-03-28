@@ -8,7 +8,7 @@ const resolvers = {
       if (!user) throw new Error('You are not authenticated')
       return await models.User.findByPk(user.id)
     },
-    async user (root, { id }, { user, models }) {
+    async user (_, { id }, { user, models }) {
       try {
         if (!user) throw new Error('You are not authenticated!')
         return models.User.findByPk(id)
@@ -16,10 +16,11 @@ const resolvers = {
         throw new Error(error.message)
       }
     },
-    async allCountries (_, __, { models }) {
+    async allCountries (_, __, { models, user }) {
       return await models.Country.findAll({ include: 'Cities' })
     },
-    async countryTranslators (_, { isoCode }, { models }) {
+    async countryTranslators (_, { isoCode }, { models, user }) {
+      console.log('who is asking', user)
       return await models.Country.findOne({
         logging: false,
         where: { isoCode },
@@ -73,7 +74,7 @@ const resolvers = {
         const token = jsonwebtoken.sign(
           { id: user.id, email: user.email },
           process.env.JWT_SECRET,
-          { expiresIn: '1y' }
+          { expiresIn: '1d' }
         )
         return {
           token, user
