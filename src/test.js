@@ -53,11 +53,16 @@ async function findTranslatorsByCountry () {
 }
 
 async function test () {
-  const password = 'Shmassword!!!'
+  // const password = 'Shmassword!!!'
   const email = 'alexei.kozhushkov@gmail.com'
 
+  // const user = await models.User.create({
+  //   email,
+  //   password: await bcrypt.hash(password, 10)
+  // })
+
   const user = await User.findOne({ where: { email } })
-  const isValid = await bcrypt.compare(password, user.password)
+  // const isValid = await bcrypt.compare(password, user.password)
 
   const token = jsonwebtoken.sign(
     { id: user.id, email: user.email },
