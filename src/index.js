@@ -26,7 +26,7 @@ async function bootstrap () {
   })
   await server.start()
   server.applyMiddleware({ app })
-  app.listen({ port: 4000 }, () => {
+  app.listen({ port: process.env.PORT || 4000 }, () => {
     console.log(`
       🚀  Server is running!
       🔉  Listening on port 4000
