@@ -1,6 +1,6 @@
 Country,lastName,firstName,city,region,streetAddress,postalCode,phone,email,languages,website
-GREECE,Naziou,Vladislava ,Athens,,"Θεοτοκοπούλου 12, Αθήνα, 11144",,"2102024326, 6948326872 ",lada.odessa@yahoo.com,ukr,
-GREECE,Chumachenko,Galina,Athens,,"Κασταλίας 25 , Κυψέλη, 11363",,"2108210550, 6946093777 ",glowcat@otenet.gr,ukr,
-GREECE,Philippidou,Electra,Thessaloniki,,"Aristotelous 24a, GR-56123 THessaloniki",,"2310 232550, 6932474775",electra.filippidou@gmail.com,"ger,rus,ukr",https://pem.gr/translators/listing/filippidou-ilektra
-GREECE,Borozdiuhina,Natalia,Rodos,,,,"2241024297, 6906613223",troufkaki1204@gmail.com,"rus,ukr",https://pem.gr/translators/listing/mporozntiouchina-natalia
-GREECE,Prokopidou,Maria,Thessaloniki,,Mitropoleos 13 - 4 floor GR-54624 Thessaloniki,,"2310243245, 6937070340",prokopimar@gmail.com,"eng,ger,rus,ukr",https://pem.gr/translators/listing/prokopidou-maria
+GREECE,Naziou,Vladislava ,Athens - Αθήνα - Афіни,,Theotokopoulou 12 Athens 11144,,"""+302102024326,+306948326872""",lada.odessa@yahoo.com,ukr,
+GREECE,Chumachenko,Galina,Athens - Αθήνα - Афіни,,Kastalias 25 Kypseli 11363,,"""+302108210550,+306946093777""",glowcat@otenet.gr,ukr,
+GREECE,Philippidou,Electra,Thessaloniki - Θεσσαλονίκη - Салоніки,,Aristotelous 24a GR-56123 Thessaloniki,,"""+302310232550,+306932474775""",electra.filippidou@gmail.com,"ger,rus,ukr",https://pem.gr/translators/listing/filippidou-ilektra
+GREECE,Borozdiuhina,Natalia,Rodos - Ρόδος - Родос,,,,"""+302241024297,+306906613223""",troufkaki1204@gmail.com,"rus,ukr",https://pem.gr/translators/listing/mporozntiouchina-natalia
+GREECE,Prokopidou,Maria,Thessaloniki - Θεσσαλονίκη - Салоніки,,Mitropoleos 13 - 4 floor GR-54624 Thessaloniki,,"""+302310243245,+306937070340""",prokopimar@gmail.com,"eng,ger,rus,ukr",https://pem.gr/translators/listing/prokopidou-maria

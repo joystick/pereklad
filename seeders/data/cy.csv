@@ -1,7 +1,7 @@
 Country,lastName,firstName,city,region,streetAddress,postalCode,phone,email,languages,website
-Cyprus,GEORGIOU-SAPOURMA,MARINA,Nicosia,Nicosia,"4, DIAGOROU STR., KERMIA, OFFICE 303-305, 1097",,35796434431,geomarlaw@gmail.com,"ukr,rus",
-Cyprus,KALLI,GALINA,Nicosia,Nicosia,"5A PLOUTARCHOU, 2406 ENGOMI, behind the US Embassy",,35799095195,galina.kalli@cytanet.com.cy,"ukr,rus",
-Cyprus,KATSY,ALONA,Pafos,Pafos,"ANDREA STYLIANOU, 10 GEROSKIPOU, 8209 PAPHOS",,35799044767,rodakino2208@gmail.com,"ukr,rus",
-Cyprus,VADETS,LESIA,Nicosia,Nicosia,"PRODROMOU 121, 1ST FLOOR, EGKOMI, 2064 NICOSIA",,35799784514,lesyavadets@gmail.com,"ukr,rus",
-Cyprus,YERMAKOVA,TETYANA,Limassol,Limassol,"53A GIALLOUSAS STR., 3071 LIMASSOL",,35799281774,yermakova@hotmail.com,"ukr,rus",
-Cyprus,ZAIKOVSKY,VITALI,Nicosia,Nicosia,"GIANNI PSICHARI, 33, 1107 NICOSIA",,35799924298,zaiko.vit@gmail.com,"ukr,rus",
+Cyprus,Georgiou-Sapourma,Marina,Lefkosia-Nicosia - Нікосія,,4 DIAGOROU STR. KERMIA OFFICE 303-305 1097,,"""+35796434431""",geomarlaw@gmail.com,"ukr,rus",
+Cyprus,Kalli,Galina,Lefkosia-Nicosia - Нікосія,,5A PLOUTARCHOU 2406 ENGOMI behind the US Embassy,,"""+35799095195""",galina.kalli@cytanet.com.cy,"ukr,rus",
+Cyprus,Katsy,Alona,Pafos - Пафос,,ANDREA STYLIANOU 10 GEROSKIPOU 8209 PAPHOS,,"""+35799044767""",rodakino2208@gmail.com,"ukr,rus",
+Cyprus,Vadets,Lesia,Lefkosia-Nicosia - Нікосія,,PRODROMOU 121 1ST FLOOR EGKOMI 2064 NICOSIA,,"""+35799784514""",lesyavadets@gmail.com,"ukr,rus",
+Cyprus,Yermakova,Tetyana,Lemesos-Limassol - Лімасол,,53A GIALLOUSAS STR. 3071 LIMASSOL,,"""+35799281774""",yermakova@hotmail.com,"ukr,rus",
+Cyprus,Zaikovsky,Vitali,Lefkosia-Nicosia - Нікосія,,GIANNI PSICHARI 33 1107 NICOSIA,,"""+35799924298""",zaiko.vit@gmail.com,"ukr,rus",

@@ -10,3 +10,8 @@ yarn sequelize model:create --name CityTranslator --attributes CityId:number,Tra
 yarn sequelize model:create --name User --attributes name:string,email:string,password:string
 
 yarn sequelize db:migrate
+
+yarn sequelize db:seed --seed seeders/1-Country.js
+yarn sequelize db:seed --seed seeders/2-CityTranslator.js
+yarn sequelize db:seed --seed seeders/3-User.js
+
